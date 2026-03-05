@@ -2,7 +2,6 @@
 
 A premium, motion-focused developer portfolio designed with a focus on cinematic aesthetics, high-performance interactions, and minimalist design.
 
-![Portfolio Preview](https://images.unsplash.com/photo-1545665277-5937489579f2?auto=format&fit=crop&q=80&w=1200)
 
 ## ✧ Vision
 
@@ -67,3 +66,4 @@ This project is pre-configured for **Vercel**. Please refer to [DEPLOYMENT.md](.
 
 ---
 Designed & Developed by **Deepak Singh Porte**
+
